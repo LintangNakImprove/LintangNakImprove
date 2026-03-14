@@ -16,8 +16,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LintangNakImprove&color=00FFB3&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/LintangNakImprove?style=for-the-badge&color=00FFB3&labelColor=0d1117&label=🤝+FOLLOWERS&logo=github" />
-  &nbsp;
+ <img src="https://img.shields.io/github/followers/LintangNakImprove?style=for-the-badge&color=00FFB3&labelColor=0d1117&label=FOLLOWERS&logo=github" />
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-00FFB3?style=for-the-badge&labelColor=0d1117" />
 </div>
 
