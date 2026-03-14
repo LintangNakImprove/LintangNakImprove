@@ -19,9 +19,13 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 &nbsp;About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" />
+</div>
+
+<br>
 
 ```java
 public class LintangNakImprove {
@@ -30,18 +34,16 @@ public class LintangNakImprove {
     String major    = "Rekayasa Perangkat Lunak";
     String location = "Bandung, Jawa Barat 🇮🇩";
     String goal     = "Become a Full-Stack Developer";
-    
+
     String[] languages  = { "Java", "PHP" };
     String[] frameworks = { "Spring Boot", "Laravel" };
-    String[] database   = { "MySQL", "PostgreSQL" };
-    
+    String[] database   = { "MySQL" };
+
     String funFact = "I turn coffee into code ☕";
     String motto   = "Keep learning, keep growing! 🚀";
-    
+
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -145,7 +147,7 @@ public class LintangNakImprove {
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LintangNakImprove&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LintangNakImprove&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4" />
 </div>
 
 ---
@@ -163,18 +165,19 @@ public class LintangNakImprove {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-LintangNakImprove-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LintangNakImprove)
-[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lintangnwy)
-[![Gmail](https://img.shields.io/badge/Gmail-youremail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintangnurwijaya9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-lintangnwy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lintangnwy)
+[![Gmail](https://img.shields.io/badge/Gmail-lintangnurwijaya9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintangnurwijaya9@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <div align="center">
+
+**⭐ Jangan lupa kasih star di repo yang kamu suka! ⭐**
+
+*Made with ❤️ and ☕ from Bandung, Indonesia 🇮🇩*
 
 </div>
