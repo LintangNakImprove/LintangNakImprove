@@ -1,153 +1,170 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ██╗  ██╗███████╗██╗     ██╗      ██████╗             ║
-║        ██║  ██║██╔════╝██║     ██║     ██╔═══██╗            ║
-║        ███████║█████╗  ██║     ██║     ██║   ██║            ║
-║        ██╔══██║██╔══╝  ██║     ██║     ██║   ██║            ║
-║        ██║  ██║███████╗███████╗███████╗╚██████╔╝            ║
-║        ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝             ║
-║                                                              ║
-║              < Student Developer />                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LintangNakImprove&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20%7C%20SMK%20Assalaam%20Bandung&descAlignY=55&descSize=18"/>
 
 </div>
 
 <div align="center">
-  
-# 👋 Hi there! I'm a Student Developer
 
-### 🏫 SMK Assalaam Bandung · Rekayasa Perangkat Lunak
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Hello+World!+I'm+Lintang;%E2%98%95+Java+%26+PHP+Developer;%F0%9F%8C%B1+Laravel+%7C+Spring+Boot+Learner;%F0%9F%8F%AB+SMK+Assalaam+Bandung+%7C+RPL;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%9A%80;PHP+%26+Java+Enthusiast+%E2%98%95;Laravel+%26+Spring+Boot+Learner+%F0%9F%8C%B1;Always+Learning%2C+Always+Growing+%F0%9F%93%9A)](https://git.io/typing-svg)
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LintangNakImprove&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/LintangNakImprove?style=for-the-badge&color=00FFB3&labelColor=0d1117&label=FOLLOWERS" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🧑‍💻 &nbsp;About Me
 
 ```java
-public class AboutMe {
-    String name     = "Student Developer";
+public class LintangNakImprove {
+
     String school   = "SMK Assalaam Bandung";
     String major    = "Rekayasa Perangkat Lunak";
-    String city     = "Bandung, Jawa Barat 🌺";
-    String status   = "Pelajar yang selalu ingin berkembang";
+    String location = "Bandung, Jawa Barat 🇮🇩";
+    String goal     = "Become a Full-Stack Developer";
     
-    String[] currentlyLearning = {
-        "Spring Boot", "Laravel", "RESTful API", "Database Design"
-    };
+    String[] languages  = { "Java", "PHP" };
+    String[] frameworks = { "Spring Boot", "Laravel" };
+    String[] database   = { "MySQL", "PostgreSQL" };
     
-    String funFact  = "Bugs are just unplanned features 🐛";
+    String funFact = "I turn coffee into code ☕";
+    String motto   = "Keep learning, keep growing! 🚀";
     
-    public String getMotivation() {
-        return "Code is not just a skill, it's a superpower! ⚡";
-    }
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🚀 &nbsp;Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔤 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+</p>
 
-### 🚀 Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 🏗️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,laravel&theme=dark" />
+</p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=LintangNakImprove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
+  &nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangNakImprove&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LintangNakImprove&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" />
 </div>
 
----
-
-## 🌱 Currently Learning
+<br>
 
 <div align="center">
-
-| Technology | Progress | Status |
-|:---:|:---:|:---:|
-| **Laravel** | `████████░░` 80% | 🔥 Active |
-| **Spring Boot** | `██████░░░░` 60% | 📖 Learning |
-| **RESTful API** | `███████░░░` 70% | 🔥 Active |
-| **Java OOP** | `████████░░` 80% | ✅ Improving |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LintangNakImprove&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff" />
 </div>
 
 ---
 
-## 🏆 My Journey
+## 🌱 &nbsp;Currently Learning
+
+<div align="center">
+
+|  | Technology | Progress | Status |
+|:---:|:---:|:---:|:---:|
+| ☕ | **Java OOP** | `▓▓▓▓▓▓▓▓░░` 80% | 🔥 Mastering |
+| 🐘 | **PHP** | `▓▓▓▓▓▓▓░░░` 70% | ✅ Good |
+| 🌿 | **Laravel** | `▓▓▓▓▓▓░░░░` 60% | 📖 Learning |
+| 🍃 | **Spring Boot** | `▓▓▓▓░░░░░░` 40% | 🚀 Started |
+| 🗄️ | **MySQL** | `▓▓▓▓▓▓░░░░` 60% | 🔥 Active |
+
+</div>
+
+---
+
+## 🗺️ &nbsp;My Dev Journey
+
+<div align="center">
 
 ```
-📅 Timeline Perjalanan Coding
-─────────────────────────────────────────────
-  🌱 Mulai belajar PHP & dasar web dev
-      └── HTML, CSS, basic PHP
-  
-  ⚡ Masuk dunia Framework
-      └── Laravel → MVC, Eloquent ORM, Blade
-  
-  ☕ Belajar Java
-      └── OOP, Collections, Data Structures
-  
-  🚀 Sekarang
-      └── Spring Boot, REST API, Back-End Dev
-  
-  🎯 Target
-      └── Full-Stack Developer 💪
-─────────────────────────────────────────────
+🗓️  2023  ──────────────────────────────────────────────────────────────
+            │
+            ▼
+         🌱 Mulai belajar dasar-dasar programming
+            └── HTML, CSS, dasar logika
+
+🗓️  2024  ──────────────────────────────────────────────────────────────
+            │
+            ├── ☕ Belajar Java
+            │     └── OOP, Array, Method, Collections
+            │
+            └── 🐘 Belajar PHP
+                  └── Syntax, Functions, Form Handling
+
+🗓️  2025  ──────────────────────────────────────────────────────────────
+            │
+            ├── 🌿 Laravel
+            │     └── MVC, Eloquent ORM, Blade Template
+            │
+            └── 🍃 Spring Boot
+                  └── REST API, JPA, Controller
+
+🎯  NOW   ──────────────────────────────────────────────────────────────
+
+         🚀 Building projects & improving skills
+         💡 Goal: Full-Stack Developer
+         🏆 Dream: Create apps that impact millions!
 ```
-
----
-
-## 💡 Favorite Quote
-
-<div align="center">
-
-> *"Setiap baris kode yang kamu tulis hari ini*
-> *adalah investasi untuk masa depanmu."*
-> 
-> — **Keep Coding, Keep Growing** 🚀
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LintangNakImprove&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 💭 &nbsp;Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 &nbsp;Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-LintangNakImprove-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LintangNakImprove)
+[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lintangnwy)
+[![Gmail](https://img.shields.io/badge/Gmail-youremail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintangnurwijaya9@gmail.com)
 
 </div>
 
@@ -155,16 +172,39 @@ public class AboutMe {
 
 <div align="center">
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+### 🐍 &nbsp;My Contributions Snake
 
-```
-╔═══════════════════════════════════════╗
-║  Thanks for visiting my profile! 🙏   ║
-║  Don't forget to ⭐ my repos!          ║
-╚═══════════════════════════════════════╝
+> Untuk mengaktifkan animasi ular, tambahkan GitHub Action berikut di repo kamu:
+> `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: LintangNakImprove
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-*Made with ❤️ from Bandung, Indonesia 🇮🇩*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<div align="center">
 
 </div>
