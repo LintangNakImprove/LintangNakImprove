@@ -281,10 +281,9 @@
 
 <div align="center">
 
-**⭐ Star repo yang kamu suka ya! Terima kasih sudah mampir! 🙏**
+
 
 ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
-*Made with ❤️, ☕ dan semangat belajar dari Bandung, Indonesia 🇮🇩*
 
 </div>
