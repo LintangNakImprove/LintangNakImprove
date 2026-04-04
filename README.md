@@ -133,15 +133,6 @@
 
 ---
 
-<!-- TROPHY -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LintangNakImprove&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
-
----
-
 <!-- CURRENTLY LEARNING -->
 ## 🌱 Skill Progress
 
